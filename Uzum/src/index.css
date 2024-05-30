@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.checked {
+  color: orange;
+  margin-right: 3px;
+  font-size: 13px;
+}
+.rate {
+  display: flex;
+}
+
+.sale {
+  text-decoration-line: line-through;
+}
+
+.topheader {
+  background-color: rgb(241, 241, 241);
+  padding-inline: 370px;
+  height: 30px;
+}
+.topheaderin {
+  display: flex;
+}
+
+.texts {
+  margin-top: 3px;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+  margin-top: 2px;
+}
